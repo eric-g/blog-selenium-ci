@@ -6,7 +6,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class SimpleTest extends Base {
+public class SampleTest extends Base {
 
     @BeforeTest
     public void beforeTests(){
